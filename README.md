@@ -1,2 +1,3 @@
 # HandlerDemo
 自定义handler
+参考Android中Handler机制实现的建议的Handler框架。
